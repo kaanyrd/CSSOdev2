@@ -1,0 +1,62 @@
+.container{
+    width: auto;
+    height: auto;
+    margin-left: 0px;
+    margin-right: 0px;
+    }
+    .content { 
+         margin-left:0px;
+        margin-right:0px;
+        width:100%;
+        height: 150px; 
+         }
+    
+    
+    .search{
+        background-color: #EEEEEE;
+        width: 100%;
+    height: 100px;
+        margin-bottom: 1px;
+        margin-left: 0px;
+        margin-right: 0px;
+    
+        
+    
+    }
+    .button{
+    width: 10%;
+    height: auto;
+    
+    }
+    .card1{
+    background-color: #7EE5DA;
+    
+    width: 33%;
+    margin:1px ;
+    padding: 1%;
+    height: 75px;
+    float: left;
+    
+    }
+    .card2{
+        background-color: #70CCC2;
+      
+    width: 27.5%;
+    margin: 1px;
+    padding: 1%;
+    float: left;
+    height:75px;
+    }
+    .card3{
+    
+        background-color: #62B3AA;
+    
+    
+        margin:1px ;
+        padding: 1%;
+    width: 33%;
+        float: left;
+        height: 75px;
+        }
+    
+       
